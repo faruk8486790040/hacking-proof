@@ -1,1 +1,2 @@
 My first ethical hacking log - Faruk
+Day 1 - Git Push and Token Security Learned - Dhing, Assam
