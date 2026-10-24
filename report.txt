@@ -1,0 +1,8 @@
+Report for assam.gov.in on Sat Oct 24 23:41:17 IST 2026
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	assam.gov.in
+Address: 103.158.205.47
+
