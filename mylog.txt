@@ -5,3 +5,13 @@ Day 2 - Ping google.com -> IP found 43.142.x.x - Learned Information Gathering
 Day 3 - whois google.com - Creation 1997, Registrar MarkMonitor Inc - Learned Information Gathering
 Day 4 - nmap scanme.nmap.org - Found open ports 22/tcp ssh, 80/tcp http, 9929/tcp - Learned Port Scanning
 Day 8 - nmap scanme.nmap.org -> IP 45.33.32.156, Ports 22 open, 80 Apache 2.4.7, 9929 open
+--- Day 9 to 12 Summary ---
+Day 9 - Nmap scan on scanme.nmap.org, ports open found
+Day 10 - Nmap vuln scan and service detection done
+Day 11 - curl robots.txt/sitemap = 404, curl -I = Apache 2.4.7 Ubuntu 200 OK
+Day 12 - dig/host/nslookup -> IPv4 45.33.32.156 IPv6 2600:3c01:: Query 160ms
+--- Day 9 to 12 Summary ---
+Day 9 - Nmap scan on scanme.nmap.org, ports open found
+Day 10 - Nmap vuln scan and service detection done
+Day 11 - curl robots.txt/sitemap = 404, curl -I = Apache 2.4.7 Ubuntu 200 OK
+Day 12 - dig/host/nslookup -> IPv4 45.33.32.156 IPv6 2600:3c01:: Query 160ms
