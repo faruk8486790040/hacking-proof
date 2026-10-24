@@ -3,3 +3,4 @@ Day 1 - Git Push and Token Security Learned - Dhing, Assam
 Day 2 - Learned pwd, ls, ping - Information Gathering is first step of Ethical Hacking
 Day 2 - Ping google.com -> IP found 43.142.x.x - Learned Information Gathering
 Day 3 - whois google.com - Creation 1997, Registrar MarkMonitor Inc - Learned Information Gathering
+Day 4 - nmap scanme.nmap.org - Found open ports 22/tcp ssh, 80/tcp http, 9929/tcp - Learned Port Scanning
