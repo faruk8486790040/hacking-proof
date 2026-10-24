@@ -1,2 +1,3 @@
 My first ethical hacking log - Faruk
 Day 1 - Git Push and Token Security Learned - Dhing, Assam
+Day 2 - Learned pwd, ls, ping - Information Gathering is first step of Ethical Hacking
