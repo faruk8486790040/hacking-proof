@@ -1,0 +1,10 @@
+[+] Dhing Defender Python Scan Started: 127.0.0.1
+[+] Time: 2026-10-25 11:11:55.049077
+[CLOSED] Port 21
+[CLOSED] Port 22
+[CLOSED] Port 80
+[CLOSED] Port 443
+[CLOSED] Port 3000
+[CLOSED] Port 8000
+[CLOSED] Port 8080
+[+] Scan Complete! Saved to python_report.txt
