@@ -1,0 +1,14 @@
+[+] Mission 3: WiFi Defender Started
+========================================
+[+] Your Device IP: 127.0.0.1
+[-] Gateway check: Termux need root? Skipped
+
+[+] Scanning Local Network Devices (Safe Scan)...
+
+[+] WiFi Security Tips:
+1. Use WPA2/WPA3 password
+2. Change default admin password
+3. Hide SSID if needed
+4. Use strong 12+ char password
+
+[+] Report Saved to wifi_report.txt
